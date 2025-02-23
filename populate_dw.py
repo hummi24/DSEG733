@@ -12,7 +12,7 @@ def connect_db():
         dbname="dseg733",
         user="humaira",
         password="chilleasy",
-        host="localhost",
+        host="postgres",
         port="5432"
     )
 
